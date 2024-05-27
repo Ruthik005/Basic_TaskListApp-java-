@@ -27,7 +27,7 @@ This Java application allows users to manage tasks efficiently. It provides feat
 2. Clone the repository:
 
     
-    git clone [https://github.com/your-username/task-list.git](https://github.com/Ruthik005/Basic_TaskListApp-java-.git)
+    git clone  https://github.com/Ruthik005/Basic_TaskListApp-java-.git
     
 
 3. Navigate to the project directory:
